@@ -1,0 +1,7 @@
+{
+  "name": "gosayhello",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
