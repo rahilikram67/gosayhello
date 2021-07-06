@@ -1,0 +1,37 @@
+.profile-cons{
+    background-color:#EC7D30 ;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.profile-cons::part(image){
+    height: 100%;
+    width: 60%;
+    margin-left: 9px;
+}
+
+.header::after{
+    width: 0;
+}
+.cardy{
+    height: 50vh;
+    width: 96vw;
+    background-size: 100% 100%;
+    border-radius: 25px;
+}
+.keep-margin{
+    height: 38vh !important;
+}
+.in-item{
+    color: white;
+    margin-left: -10px;
+    --background:transparent;
+}
+.name{
+    font-size: 20px;
+}
+.heart{
+    border-radius: 50%;
+    width: 11vw;
+    height: 5vh;
+}
